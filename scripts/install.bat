@@ -9,5 +9,4 @@ taskkill /f /im explorer.exe
 timeout /t 2 > nul
 start explorer.exe
 echo Explorer has been restarted.
-echo Restarting may be required for the changes to take effect.
 pause
